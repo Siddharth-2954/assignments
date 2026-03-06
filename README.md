@@ -37,3 +37,4 @@
 
 * data_structures_assignment.ipynb is file which consist code for Assignment 1
 * control_flow_assignment.ipynb is file which consist code for Assignment 2
+* functions_assignment.ipynb is file which consist code for Assignment 3
